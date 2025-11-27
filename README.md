@@ -81,7 +81,8 @@ The schema is fully normalized and enforces primary–foreign key constraints to
 **Members:** <br>
 Divya Jain (341138) <br>
 Kashish Jain (341143) <br>
-Mandira Roy (341151)    
+Mandira Roy (341151)<br>
+**PGDM 34(C)** <br>
 **Course:** DBMS  
 **Submitted To:** Prof. Ashok K. Harnal
 
